@@ -20,3 +20,14 @@
 .App-link {
   color: #09d3ac;
 }
+
+.errormessage-false {
+  display: none;
+}
+
+.errormessage-true {
+  display: block;
+  color: red;
+  font-size: 16px;
+  font-family: monospace;
+}
